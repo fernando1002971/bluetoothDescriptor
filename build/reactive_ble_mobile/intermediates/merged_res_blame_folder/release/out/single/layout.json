@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\reactive_ble_mobile\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\reactive_ble_mobile\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\reactive_ble_mobile\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

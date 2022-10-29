@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_bluetooth_serial\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\82c6af765aab82755165067999758c83\\transformed\\appcompat-1.3.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_bluetooth_serial\\intermediates\\merged_res\\release\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\82c6af765aab82755165067999758c83\\transformed\\appcompat-1.3.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

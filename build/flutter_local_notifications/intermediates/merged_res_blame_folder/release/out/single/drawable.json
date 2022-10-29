@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_local_notifications\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_local_notifications\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_local_notifications\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\mario\\Desktop\\flutter_projects\\flutter_bluetooth_ble\\flutter_reactive_ble\\example\\build\\flutter_local_notifications\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-3\\348f6d52d990d4fb4fcc5abc17a1cdcd\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]
